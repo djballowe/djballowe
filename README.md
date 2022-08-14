@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Ballowe</h1>
 <h3 align="center">Full Stack Engineer with a passion for mixing art and technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djballowe" alt="djballowe" /></a> </p>
-
-📫 How to reach me **db@davidballowe.com**
+- 📫 How to reach me **db@davidballowe.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
