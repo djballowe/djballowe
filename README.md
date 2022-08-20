@@ -3,3 +3,7 @@
 
 📫 How to reach me **db@davidballowe.com**
 
+💻 All of my web projects are available here
+
+🖌 Check out my other design projects here!
+
